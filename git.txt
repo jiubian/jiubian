@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 太阳出来我爬山坡，
 爬到了山顶我想唱歌，
 歌声飘给那二爷听啊，
@@ -16,3 +17,7 @@
 我知道他等我抱一抱
 
 
+=======
+risiyeixangdezhangyunlei,
+xiangjiajiujiayangjiulang.
+>>>>>>> c21e6ffa66362b59407c895d780525181630af4d
